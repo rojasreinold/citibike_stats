@@ -1,5 +1,3 @@
-#!/bin/python3
-
 import pprint
 from gbfs.services import SystemDiscoveryService
 
